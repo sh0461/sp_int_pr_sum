@@ -1,0 +1,18 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Environment and OS-specific files
+.DS_Store
+
+# Local development configuration
+config.ini
+
+# IDE-specific files
+.vscode/
+
+# Dependency directories
+env/
+
+# Cache directories
+.cache/
